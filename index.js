@@ -72,7 +72,7 @@ const statusBarHeight = isLandscape => {
   }
 
   if (isIPhoneX) {
-    return isLandscape ? 0 : 44;
+    return isLandscape ? 0 : 34;
   }
 
   if (isIPad) {
